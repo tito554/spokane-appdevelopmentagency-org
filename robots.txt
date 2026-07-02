@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://spokane.appdevelopmentagency.org/sitemap.xml
